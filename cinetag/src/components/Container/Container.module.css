@@ -9,3 +9,9 @@
         margin: 2em 6em;
     }
 }
+
+@media screen and (max-width: 800px) {
+    .container section {
+        margin: 2em 2em;
+    }
+}

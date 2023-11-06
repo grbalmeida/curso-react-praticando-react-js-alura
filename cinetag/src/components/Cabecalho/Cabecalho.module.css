@@ -9,9 +9,10 @@
 @media screen and (max-width: 800px) {
     .cabecalho {
         flex-direction: column;
+        padding: 1.1em 2em;
     }
 
     .logo {
-        width: 50vw;
+        width: 40vw;
     }
 }

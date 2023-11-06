@@ -11,3 +11,9 @@
         font-size: 2em;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .link {
+        font-size: 1.2em;
+    }
+}
