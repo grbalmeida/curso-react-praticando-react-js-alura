@@ -7,7 +7,7 @@ function Cabecalho() {
     return (
         <header className={styles.cabecalho}>
             <Link to="/">
-                <img src={logo} alt="Logo do Cinetag" />
+                <img src={logo} alt="Logo do Cinetag" className={styles.logo} />
             </Link>
             <nav>
                 <CabecalhoLink url="/">

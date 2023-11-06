@@ -5,3 +5,9 @@
     padding: 1em;
     text-decoration: none;
 }
+
+@media screen and (max-width: 800px) {
+    .link {
+        font-size: 2em;
+    }
+}

@@ -19,7 +19,7 @@ function Card({ id, titulo, capa }) {
                     alt={titulo}
                     className={styles.capa}
                 />
-                <h2>{titulo}</h2>
+                <h2 className={styles.titulo}>{titulo}</h2>
             </Link>
             <img
                 src={icone}

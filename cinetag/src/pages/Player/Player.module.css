@@ -1,3 +1,9 @@
 iframe {
     height: 80vh;
 }
+
+@media screen and (max-width: 800px) {
+    iframe {
+        height: 50vh;
+    }
+}
